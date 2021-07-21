@@ -1,0 +1,32 @@
+@media only screen and (max-width: 760px){
+        .btn-primary {
+            width: 50%;
+            position: absolute;
+            left: 25%;
+            text-transform: uppercase;
+        };
+
+} 
+
+@media only screen and (max-width: 760px){
+   h1, p {
+       color: pink;
+       font-weight: bold;
+       text-transform: uppercase;
+       text-align: center;
+    }
+
+    h1 {
+        font-size: 80px;
+    }
+
+} 
+
+@media only screen and (max-width: 760px){
+    nav {
+        text-transform: uppercase;
+        display: flex;
+        justify-content: space-between;
+    }
+
+} 
