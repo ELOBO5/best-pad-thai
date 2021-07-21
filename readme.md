@@ -1,1 +1,1 @@
-Recipe website for favourite food.
+Website for favourite food.
